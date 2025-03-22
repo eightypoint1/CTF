@@ -6,7 +6,7 @@ This is the webpage, super bland, the base functionality is just to input someth
 
 ![alt text](image-2.png)
 
-First though we have to try and find what exactly powers this web app, and because im not really efficient, I had to find out the hard way through using burpsuite, so after checking the response to the request of sending my text to the server I was greeted with werkzeug, which through painful googling showed that the template engine is jinja2. 
+First though we have to try and find what exactly powers this web app, and because im kinda dumb (use wappalyzer guys), I had to find out the hard way through using burpsuite, so after checking the response to the request of sending my text to the server I was greeted with werkzeug, which through some googling showed that the template engine is jinja2. 
 
 ![alt text](image.png)
 
