@@ -1,6 +1,6 @@
 This one is an interesting challenge based on the concept of Serverside Template Injection (SSTI), basically what that means is we are going to use the native syntax of the template to do some funny stuff, in this case finding the flag through nefarious means.
 
-This is the webpage, super bland, the base functionality is just to input something, and then it will be announced (sadly to you only)
+This is the webpage, super bland, the base functionality is just to input something, and then it will be announced
 
 ![alt text](image-1.png)
 
